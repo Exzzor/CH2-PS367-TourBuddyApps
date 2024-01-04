@@ -19,8 +19,8 @@ To address the issue of decreasing tourist interest in historical and cultural t
 ![Slide 16_9 - 2](https://storage.googleapis.com/tourbuddy/Tech%20Stak.png)
 
 ## Project Documents:
-- Project Brief : [](https://docs.google.com/document/d/13eitHssVzxrOHWj2Dza_kEDmLrRXOkIrAHNsYkEYG0k/edit?usp=sharing)
-- Final presentation : [](https://www.youtube.com/watch?v=v5VJkjBnRNc)
+- Project Brief : [Project Brief](https://docs.google.com/document/d/13eitHssVzxrOHWj2Dza_kEDmLrRXOkIrAHNsYkEYG0k/edit?usp=sharing)
+- Final presentation : [Final presentation](https://www.youtube.com/watch?v=v5VJkjBnRNc)
 
 ## The Team
 
